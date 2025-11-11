@@ -1,0 +1,47 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v4.1.134715837)
+
+newmtl Chernyy
+Kd 43 43 43
+illum 1
+
+newmtl LDSP 16mm
+Kd 192 192 192
+illum 1
+
+newmtl LDSP 8mm
+Kd 192 192 192
+illum 1
+
+newmtl Kromka 0_4kh19 v tsvet
+Kd 255 255 0
+illum 1
+
+newmtl KhDF 3_2mm
+Kd 192 192 192
+illum 1
+
+newmtl Oblitsovka Emal_ 1
+illum 1
+map_Kd 33_textures\NCS-S-1505-Y40R.png
+
+newmtl Kromka 0_8kh19 v tsvet
+Kd 255 255 0
+illum 1
+
+newmtl Hettich Tsink
+Kd 210 210 210
+illum 1
+
+newmtl Khrom matovyy
+illum 1
+map_Kd 33_textures\default.bmp
+
+newmtl Noname
+illum 1
+map_Kd 33_textures\default.bmp
+
+newmtl Hettich Antratsit plastik
+Kd 96 96 96
+illum 1
+
